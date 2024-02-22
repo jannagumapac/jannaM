@@ -5,3 +5,7 @@ body{
    min-height: 109vh;
    width: 100%;  
 }
+img{
+  width: 250px;
+  height: 250px;
+}
