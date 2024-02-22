@@ -1,0 +1,7 @@
+body{
+    background-image: url('janna.jpeg');
+    background-position: center;
+   background-size: cover;
+   min-height: 109vh;
+   width: 100%;  
+}
